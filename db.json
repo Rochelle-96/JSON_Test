@@ -1,5 +1,5 @@
 {
-    "site":
+    "site_1":
     [
         {
           "id": 1,
@@ -11,5 +11,17 @@
           "body": "some comment",
           "postId": 1
         }
+    ]
+    "site2_":
+    [
+        {
+            "id":"hellowork",
+            "password":"no"
+        },
+        {
+            "id":"hellowork",
+            "password":"no"
+        }
+
     ]
 }
